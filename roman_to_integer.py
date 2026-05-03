@@ -1,3 +1,21 @@
+
+#program: LeetCode
+# Difficulty: Easy
+# Topic: Hashtable,math,string
+# Language: Python
+
+#  Problem Description:
+# Convert the given roman number to integer.
+
+#  Approach:
+# For each character:
+
+#If the current value is less than the next value, subtract it.
+#Example: "IV" → I < V → subtract 1
+#Otherwise, add it..
+
+#  Time Complexity: O(n)
+#  Space Complexity: O(1)
 class Solution(object):
     def romanToInt(self, s):
         roman={
