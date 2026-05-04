@@ -1,3 +1,17 @@
+# Problem: Reverse number
+# Platform: LeetCode
+# Difficulty: Medium
+# Topic: Math
+# Language: Python
+
+#  Problem Description:
+# Find the reverse of the given number.
+
+#  Approach:
+# Acces the last digits and add it to reverse.
+
+# ⚡ Time Complexity: O(n)
+# ⚡ Space Complexity: O(1)
 import math
 class Solution(object):
     def reverse(self, x):
