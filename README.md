@@ -6,6 +6,7 @@ This repository contains my solutions to LeetCode problems.
 - Arrays
 - Math
 - Linked Lists
+- Strings
 
 ## 💻 Language
 - Python
