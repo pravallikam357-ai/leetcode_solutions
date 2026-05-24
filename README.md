@@ -3,16 +3,16 @@
 Welcome to my LeetCode solutions repository. This repository contains structured and optimized solutions to coding problems solved on LeetCode using Python.
 
 📚 Topics Covered
-Arrays
-Strings
-Linked Lists
-Math
-Searching & Sorting
-Hash Maps
-Recursion
-Dynamic Programming
-Stack & Queue
-Trees & Graphs
+->Arrays
+->Strings
+->Linked Lists
+->Math
+->Searching & Sorting
+->Hash Maps
+->Recursion
+->Dynamic Programming
+->Stack & Queue
+->Trees & Graphs
 💻 Programming Language
 Python
 🚀 Objectives
